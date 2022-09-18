@@ -1,6 +1,11 @@
-Thanks for downloading this template!
+# 6012CEM UX Design Assignment
+Revamp Project of the Greyline Macau website
 
-Template Name: Flexor
-Template URL: https://bootstrapmade.com/flexor-free-multipurpose-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+## Live Demo Link
+https://benmany123.github.io/UX-Design-2/
+
+## Video Demo Link
+https://youtu.be/fBsnWzWkitw
+
+
+
